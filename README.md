@@ -1,7 +1,4 @@
-[schlosser.io](https://schlosser.io)
-========================================
 
-[schlosser.io](https://schlosser.io) is built using [Gulp][gulp], [Jekyll][jekyll], and [SCSS][scss].
 
 ## Features
 
